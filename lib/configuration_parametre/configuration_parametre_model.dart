@@ -6,7 +6,6 @@ class ConfigurationParametreModel
     extends FlutterFlowModel<ConfigurationParametreWidget> {
   ///  State fields for stateful widgets in this page.
 
-  final unfocusNode = FocusNode();
   // State field(s) for Switch widget.
   bool? switchValue;
 
@@ -14,7 +13,5 @@ class ConfigurationParametreModel
   void initState(BuildContext context) {}
 
   @override
-  void dispose() {
-    unfocusNode.dispose();
-  }
+  void dispose() {}
 }

@@ -11,3 +11,4 @@ export '/formulaire_connexion/formulaire_connexion_widget.dart'
     show FormulaireConnexionWidget;
 export '/configuration_parametre/configuration_parametre_widget.dart'
     show ConfigurationParametreWidget;
+export '/recherche/recherche_widget.dart' show RechercheWidget;

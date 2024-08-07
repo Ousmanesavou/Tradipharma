@@ -26,10 +26,10 @@
         <key>CFBundleTypeRole</key>
         <string>Editor</string>
         <key>CFBundleURLName</key>
-        <string>tradi.com</string>
+        <string>tradi</string>
         <key>CFBundleURLSchemes</key>
         <array>
-        <string>tradi</string>
+        <string></string>
         </array>
         </dict>
     </array>

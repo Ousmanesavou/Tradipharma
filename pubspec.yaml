@@ -28,6 +28,11 @@ dependencies:
   auto_size_text: 3.0.0
   cached_network_image: 3.3.1
   collection: 1.18.0
+  firebase_core: 2.31.0
+  firebase_core_platform_interface: 5.0.0
+  firebase_core_web: 2.17.0
+  firebase_dynamic_links: 5.4.16
+  firebase_dynamic_links_platform_interface: 0.2.6+24
   flutter_animate: 4.5.0
   flutter_cache_manager: 3.3.1
   font_awesome_flutter: 10.6.0
@@ -41,6 +46,7 @@ dependencies:
   path_provider_android: 2.2.5
   path_provider_foundation: 2.4.0
   path_provider_platform_interface: 2.1.2
+  plugin_platform_interface: 2.1.8
   provider: 6.1.2
   shared_preferences: 2.2.2
   shared_preferences_android: 2.2.1
